@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEF2D" format="2">
+  <advance width="1024"/>
+  <unicode hex="EF2D"/>
+  <outline>
+    <contour>
+      <point x="0" y="614.5" type="line"/>
+      <point x="1024" y="614.5" type="line"/>
+      <point x="1024" y="409.5" type="line"/>
+      <point x="0" y="409.5" type="line"/>
+      <point x="0" y="614.5" type="line"/>
+    </contour>
+  </outline>
+</glyph>

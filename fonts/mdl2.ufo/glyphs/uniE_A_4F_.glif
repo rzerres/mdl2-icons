@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEA4F" format="2">
+  <advance width="1024"/>
+  <unicode hex="EA4F"/>
+  <outline>
+    <contour>
+      <point x="514" y="1024" type="line"/>
+      <point x="514" y="1024" type="line"/>
+      <point x="514" y="960" type="line"/>
+      <point x="111" y="960" type="line"/>
+      <point x="1024" y="46" type="line"/>
+      <point x="979" y="2" type="line"/>
+      <point x="66" y="914" type="line"/>
+      <point x="66" y="512" type="line"/>
+      <point x="2" y="512" type="line"/>
+      <point x="2" y="1024" type="line"/>
+    </contour>
+  </outline>
+</glyph>

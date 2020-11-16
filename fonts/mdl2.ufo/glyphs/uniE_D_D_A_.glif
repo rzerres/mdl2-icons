@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEDDA" format="2">
+  <advance width="1024"/>
+  <unicode hex="EDDA"/>
+  <outline>
+    <contour>
+      <point x="256" y="1024" type="line"/>
+      <point x="768" y="512" type="line"/>
+      <point x="256" y="0" type="line"/>
+      <point x="256" y="1024" type="line"/>
+    </contour>
+  </outline>
+</glyph>

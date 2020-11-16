@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEDB3" format="2">
+  <advance width="1024"/>
+  <unicode hex="EDB3"/>
+  <outline>
+    <contour>
+      <point x="85" y="853" type="line"/>
+      <point x="938" y="853" type="line"/>
+      <point x="938" y="171" type="line"/>
+      <point x="86" y="171" type="line"/>
+    </contour>
+    <contour>
+      <point x="853" y="768" type="line"/>
+      <point x="171" y="768" type="line"/>
+      <point x="171" y="688" type="line"/>
+      <point x="512" y="517" type="line"/>
+      <point x="853" y="687" type="line"/>
+    </contour>
+    <contour>
+      <point x="171" y="256" type="line"/>
+      <point x="853" y="256" type="line"/>
+      <point x="853" y="592" type="line"/>
+      <point x="512" y="422" type="line"/>
+      <point x="171" y="592" type="line"/>
+    </contour>
+  </outline>
+</glyph>

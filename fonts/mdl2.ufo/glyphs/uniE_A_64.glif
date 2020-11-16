@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEA64" format="2">
+  <advance width="1024"/>
+  <unicode hex="EA64"/>
+  <outline>
+    <contour>
+      <point x="6" y="544" type="line"/>
+      <point x="6" y="544" type="line"/>
+      <point x="1021" y="882" type="line"/>
+      <point x="919" y="576" type="line"/>
+      <point x="451" y="576" type="line"/>
+      <point x="323" y="544" type="line"/>
+      <point x="451" y="512" type="line"/>
+      <point x="919" y="512" type="line"/>
+      <point x="1021" y="206" type="line"/>
+    </contour>
+  </outline>
+</glyph>

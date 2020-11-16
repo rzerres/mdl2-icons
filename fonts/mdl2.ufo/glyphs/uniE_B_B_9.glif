@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEBB9" format="2">
+  <advance width="1536"/>
+  <unicode hex="EBB9"/>
+  <outline>
+    <contour>
+      <point x="1472" y="576" type="line"/>
+      <point x="1472" y="448" type="line"/>
+      <point x="1408" y="448" type="line"/>
+      <point x="1408" y="192" type="line"/>
+      <point x="256" y="192" type="line"/>
+      <point x="256" y="256" type="line"/>
+      <point x="1344" y="256" type="line"/>
+      <point x="1344" y="768" type="line"/>
+      <point x="380" y="768" type="line"/>
+      <point x="372" y="785"/>
+      <point x="361" y="801" type="qcurve" smooth="yes"/>
+      <point x="351" y="817"/>
+      <point x="338" y="832" type="qcurve"/>
+      <point x="1408" y="832" type="line"/>
+      <point x="1408" y="576" type="line"/>
+    </contour>
+    <contour>
+      <point x="256" y="453" type="line"/>
+      <point x="301" y="472"/>
+      <point x="334" y="508" type="qcurve" smooth="yes"/>
+      <point x="367" y="544"/>
+      <point x="384" y="590" type="qcurve"/>
+      <point x="384" y="704" type="line"/>
+      <point x="512" y="704" type="line"/>
+      <point x="512" y="320" type="line"/>
+      <point x="256" y="320" type="line"/>
+    </contour>
+    <contour>
+      <point x="320" y="672" type="qcurve" smooth="yes"/>
+      <point x="320" y="644"/>
+      <point x="311" y="618" type="qcurve" smooth="yes"/>
+      <point x="301" y="592"/>
+      <point x="284" y="571" type="qcurve" smooth="yes"/>
+      <point x="267" y="550"/>
+      <point x="244" y="536" type="qcurve" smooth="yes"/>
+      <point x="220" y="521"/>
+      <point x="192" y="515" type="qcurve"/>
+      <point x="192" y="192" type="line"/>
+      <point x="128" y="192" type="line"/>
+      <point x="128" y="515" type="line"/>
+      <point x="100" y="521"/>
+      <point x="77" y="535" type="qcurve" smooth="yes"/>
+      <point x="53" y="550"/>
+      <point x="36" y="571" type="qcurve" smooth="yes"/>
+      <point x="19" y="591"/>
+      <point x="10" y="617" type="qcurve" smooth="yes"/>
+      <point x="0" y="643"/>
+      <point x="0" y="672" type="qcurve" smooth="yes"/>
+      <point x="0" y="705"/>
+      <point x="12" y="733" type="qcurve" smooth="yes"/>
+      <point x="24" y="761"/>
+      <point x="47" y="785" type="qcurve" smooth="yes"/>
+      <point x="160" y="898" type="line"/>
+      <point x="273" y="785" type="line" smooth="yes"/>
+      <point x="296" y="762"/>
+      <point x="308" y="733" type="qcurve" smooth="yes"/>
+      <point x="320" y="705"/>
+    </contour>
+    <contour>
+      <point x="64" y="672" type="qcurve" smooth="yes"/>
+      <point x="64" y="657"/>
+      <point x="68" y="643" type="qcurve" smooth="yes"/>
+      <point x="73" y="629"/>
+      <point x="81" y="617" type="qcurve" smooth="yes"/>
+      <point x="90" y="605"/>
+      <point x="102" y="596" type="qcurve" smooth="yes"/>
+      <point x="113" y="587"/>
+      <point x="128" y="582" type="qcurve"/>
+      <point x="128" y="704" type="line"/>
+      <point x="192" y="704" type="line"/>
+      <point x="192" y="582" type="line"/>
+      <point x="206" y="586"/>
+      <point x="218" y="595" type="qcurve" smooth="yes"/>
+      <point x="230" y="604"/>
+      <point x="238" y="616" type="qcurve" smooth="yes"/>
+      <point x="247" y="628"/>
+      <point x="251" y="643" type="qcurve" smooth="yes"/>
+      <point x="256" y="657"/>
+      <point x="256" y="672" type="qcurve" smooth="yes"/>
+      <point x="256" y="691"/>
+      <point x="249" y="709" type="qcurve" smooth="yes"/>
+      <point x="242" y="726"/>
+      <point x="228" y="740" type="qcurve" smooth="yes"/>
+      <point x="160" y="807" type="line"/>
+      <point x="92" y="740" type="line" smooth="yes"/>
+      <point x="79" y="727"/>
+      <point x="71" y="709" type="qcurve" smooth="yes"/>
+      <point x="64" y="691"/>
+    </contour>
+  </outline>
+</glyph>

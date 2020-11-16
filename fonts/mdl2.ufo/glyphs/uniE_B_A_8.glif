@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEBA8" format="2">
+  <advance width="1536"/>
+  <unicode hex="EBA8"/>
+  <outline>
+    <contour>
+      <point x="1408" y="576" type="line"/>
+      <point x="1472" y="576" type="line"/>
+      <point x="1472" y="448" type="line"/>
+      <point x="1408" y="448" type="line"/>
+      <point x="1408" y="192" type="line"/>
+      <point x="128" y="192" type="line"/>
+      <point x="128" y="832" type="line"/>
+      <point x="1408" y="832" type="line"/>
+    </contour>
+    <contour>
+      <point x="1344" y="256" type="line"/>
+      <point x="1344" y="768" type="line"/>
+      <point x="192" y="768" type="line"/>
+      <point x="192" y="256" type="line"/>
+    </contour>
+    <contour>
+      <point x="1088" y="704" type="line"/>
+      <point x="1088" y="320" type="line"/>
+      <point x="256" y="320" type="line"/>
+      <point x="256" y="704" type="line"/>
+    </contour>
+  </outline>
+</glyph>

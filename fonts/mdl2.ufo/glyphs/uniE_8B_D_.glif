@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE8BD" format="2">
+  <advance width="1024"/>
+  <unicode hex="E8BD"/>
+  <outline>
+    <contour>
+      <point x="0" y="960" type="line"/>
+      <point x="1024" y="960" type="line"/>
+      <point x="1024" y="256" type="line"/>
+      <point x="366" y="256" type="line"/>
+      <point x="128" y="19" type="line"/>
+      <point x="128" y="256" type="line"/>
+      <point x="0" y="256" type="line"/>
+    </contour>
+    <contour>
+      <point x="960" y="320" type="line"/>
+      <point x="960" y="896" type="line"/>
+      <point x="64" y="896" type="line"/>
+      <point x="64" y="320" type="line"/>
+      <point x="192" y="320" type="line"/>
+      <point x="192" y="174" type="line"/>
+      <point x="338" y="320" type="line"/>
+    </contour>
+  </outline>
+</glyph>

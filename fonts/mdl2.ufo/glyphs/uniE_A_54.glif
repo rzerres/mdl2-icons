@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEA54" format="2">
+  <advance width="1024"/>
+  <unicode hex="EA54"/>
+  <outline>
+    <contour>
+      <point x="1024" y="960" type="line"/>
+      <point x="1024" y="960" type="line"/>
+      <point x="1024" y="256" type="line"/>
+      <point x="896" y="256" type="line"/>
+      <point x="896" y="19" type="line"/>
+      <point x="659" y="256" type="line"/>
+      <point x="448" y="256" type="line"/>
+      <point x="448" y="320" type="line"/>
+      <point x="686" y="320" type="line"/>
+      <point x="832" y="174" type="line"/>
+      <point x="832" y="320" type="line"/>
+      <point x="960" y="320" type="line"/>
+      <point x="960" y="896" type="line"/>
+      <point x="64" y="896" type="line"/>
+      <point x="64" y="384" type="line"/>
+      <point x="0" y="384" type="line"/>
+      <point x="0" y="960" type="line"/>
+    </contour>
+    <contour>
+      <point x="194" y="402" type="line"/>
+      <point x="239" y="446" type="line"/>
+      <point x="397" y="288" type="line"/>
+      <point x="239" y="130" type="line"/>
+      <point x="194" y="175" type="line"/>
+      <point x="275" y="256" type="line"/>
+      <point x="0" y="256" type="line"/>
+      <point x="0" y="320" type="line"/>
+      <point x="275" y="320" type="line"/>
+    </contour>
+  </outline>
+</glyph>

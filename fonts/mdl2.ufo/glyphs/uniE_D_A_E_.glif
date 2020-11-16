@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEDAE" format="2">
+  <advance width="1024"/>
+  <unicode hex="EDAE"/>
+  <outline>
+    <contour>
+      <point x="883" y="823" type="line"/>
+      <point x="573" y="512" type="line"/>
+      <point x="883" y="201" type="line"/>
+      <point x="823" y="141" type="line"/>
+      <point x="512" y="451" type="line"/>
+      <point x="201" y="141" type="line"/>
+      <point x="141" y="201" type="line"/>
+      <point x="451" y="512" type="line"/>
+      <point x="141" y="823" type="line"/>
+      <point x="201" y="883" type="line"/>
+      <point x="512" y="573" type="line"/>
+      <point x="823" y="883" type="line"/>
+    </contour>
+  </outline>
+</glyph>

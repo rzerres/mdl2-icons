@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF139" format="2">
+  <advance width="1024"/>
+  <unicode hex="F139"/>
+  <outline>
+    <contour>
+      <point x="960" y="0" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="480" y="960" type="line"/>
+    </contour>
+  </outline>
+</glyph>

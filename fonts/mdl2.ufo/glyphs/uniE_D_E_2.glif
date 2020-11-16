@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEDE2" format="2">
+  <advance width="1024"/>
+  <unicode hex="EDE2"/>
+  <outline>
+    <contour>
+      <point x="278" y="729" type="line"/>
+      <point x="125" y="575" type="line"/>
+      <point x="896" y="575" type="line"/>
+      <point x="896" y="511" type="line"/>
+      <point x="126" y="511" type="line"/>
+      <point x="278" y="359" type="line"/>
+      <point x="234" y="314" type="line"/>
+      <point x="3" y="544" type="line"/>
+      <point x="233" y="774" type="line"/>
+    </contour>
+    <contour>
+      <point x="960" y="768" type="line"/>
+      <point x="1024" y="768" type="line"/>
+      <point x="1024" y="320" type="line"/>
+      <point x="960" y="320" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEE63" format="2">
+  <advance width="1024"/>
+  <unicode hex="EE63"/>
+  <outline>
+    <contour>
+      <point x="960" y="576" type="line"/>
+      <point x="1024" y="576" type="line"/>
+      <point x="1024" y="448" type="line"/>
+      <point x="960" y="448" type="line"/>
+      <point x="960" y="256" type="line"/>
+      <point x="0" y="256" type="line"/>
+      <point x="0" y="768" type="line"/>
+      <point x="960" y="768" type="line"/>
+    </contour>
+    <contour>
+      <point x="896" y="320" type="line"/>
+      <point x="896" y="704" type="line"/>
+      <point x="64" y="704" type="line"/>
+      <point x="64" y="320" type="line"/>
+    </contour>
+  </outline>
+</glyph>

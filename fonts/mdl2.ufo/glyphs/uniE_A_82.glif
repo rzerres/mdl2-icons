@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEA82" format="2">
+  <advance width="1024"/>
+  <unicode hex="EA82"/>
+  <outline>
+    <contour>
+      <point x="736" y="576" type="line"/>
+      <point x="1024" y="0" type="line"/>
+      <point x="448" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>
